@@ -11,7 +11,7 @@ const about = {
   description:
     `Data Engineer with 5 months of experience in writing automated Python scripts Skilled in the areas of Python, Pandas, NumPy,
     Openpyxl, Excel and SQL. Other than that I'm passionate about working with React Js, Node Js, MongoDb and MySQL Tech Stack. I'm also exploring cloud technologies such as AWS and Jenkins.`,
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/13_adtmMx1cHAVYaPmFkSV6RFYGUwP8YF/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/yogesh-pahuja-a452251b2',
     github: 'https://github.com/pahujayogesh',
