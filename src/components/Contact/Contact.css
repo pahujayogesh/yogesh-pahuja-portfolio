@@ -1,0 +1,8 @@
+.contact {
+  flex-direction: column;
+}
+
+.contact_info{
+  display: flex;
+  gap: 10px;
+}

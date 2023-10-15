@@ -1,0 +1,24 @@
+.crt_detail{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(1em, 1fr));
+    text-align: center;
+
+}
+
+.crt_detail img {
+
+    width:  100%;
+    height: 50%;
+    object-fit: contain;
+
+  }
+
+  @media only screen and (max-width: 600px) {
+    .crt_detail{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    
+    }
+  }
+
