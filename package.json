@@ -1,5 +1,4 @@
 {
-  "homepage":"https://pahujayogesh.github.io.yogesh-pahuja-portfolio",
   "name": "Yogesh Pahuja Portfolio",
   "version": "0.1.0",
   "private": true,
@@ -19,8 +18,6 @@
   },
   "scripts": {
     "start": "react-scripts start --openssl-legacy-provider",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
     "build": "react-scripts build --openssl-legacy-provider",
     "test": "react-scripts test --openssl-legacy-provider",
     "eject": "react-scripts eject --openssl-legacy-provider",
