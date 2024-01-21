@@ -11,7 +11,7 @@ const about = {
   description:
     `Data Engineer with 5 months of experience in writing automated Python scripts Skilled in the areas of Python, Pandas, NumPy,
     Openpyxl, Excel and SQL. Other than that I'm passionate about working with React Js, Node Js, MongoDb and MySQL Tech Stack. I'm also exploring cloud technologies such as AWS and Jenkins.`,
-  resume: 'https://drive.google.com/file/d/13_adtmMx1cHAVYaPmFkSV6RFYGUwP8YF/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/114iUcUbFLmTTrjZXRLIzLLDRIbe6YvO8/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/yogesh-pahuja-a452251b2',
     github: 'https://github.com/pahujayogesh',
@@ -52,6 +52,24 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'ETL project on food claims dataset',
+    description:
+      `This project focuses on the Extract, Transform, and Load (ETL) process for the Kaggle Food Claims dataset. The goal is to efficiently
+      extract data from the Kaggle platform, apply necessary transformations using Python and SQL, and finally load the cleansed and
+      structured data into a PostgreSQL database.`,
+    stack: ['Python', 'Pandas','Numpy', 'Matplotlib', 'SQL', 'sqlalchemy', 'psycopg2','PostgreSQL', 'PgAdmin4'],
+    sourceCode: 'https://github.com/pahujayogesh/Python-SQL-ETL-project-on-Food-Claims-data/tree/main',
+  },
+  {
+    name: 'SQL Music Store Data Analysis',
+    description:
+      `The SQL Music Store Data Analysis project aims to delve into a comprehensive analysis of a music store database, unraveling valuable
+      insights into music sales, customer behavior, artist performance, and track popularity. Through a series of SQL queries and data
+      manipulation techniques`,
+    stack: ['PostgreSQL', 'PgAdmin4','DML', 'DDL', 'Aggregate functions', 'Subqueries', 'JOINS', 'CTE'],
+    sourceCode: 'https://github.com/pahujayogesh/SQL_Music_Store_Data_Analysis/tree/main',
+  },
+  {
     name: 'Cinematic Data Dive: Python-Powered Movie Analysis ',
     description:
       `project that explores a comprehensive dataset containing information on the 1,000 most popular movies released on IMDB between 2006
@@ -69,6 +87,15 @@ const projects = [
     sourceCode: 'https://github.com/pahujayogesh/Web-search-with-voice-recognition',
   },
   {
+    name: 'Criminal Detection using Face Recognition',
+    description:
+      `A Application for Detecting and identifying the saved database of faces, to recognise
+      the criminal and fetch data for that criminal. Detection can be done with Image
+      surveillance and Video Surveillance. The new date record can be saved in database.`,
+    stack: ['python','Tkinter', 'OpenCV', 'OS', 'Image module', 'numpy', 'pymysql', 'Haar Cascade Library'],
+    sourceCode: 'https://github.com/pahujayogesh/Criminal-Detection-Using-Face-Recognition',
+  },
+  {
     name: 'Library Management System',
     description:
       `The Library Management System built with MERN tech stack makes library operations easier by providing admin/user registration,
@@ -84,15 +111,6 @@ const projects = [
     stack: ['HTML5', 'CSS3', 'Bootstrap', 'Material UI', 'JavaScript ES6', 'React Js', 'Axios'],
     sourceCode: 'https://github.com/pahujayogesh/Football-Card',
     livePreview:'https://pahujayogesh.github.io/Football-Card/'
-  },
-  {
-    name: 'Criminal Detection using Face Recognition',
-    description:
-      `A Application for Detecting and identifying the saved database of faces, to recognise
-      the criminal and fetch data for that criminal. Detection can be done with Image
-      surveillance and Video Surveillance. The new date record can be saved in database.`,
-    stack: ['python','Tkinter', 'OpenCV', 'OS', 'Image module', 'numpy', 'pymysql', 'Haar Cascade Library'],
-    sourceCode: 'https://github.com/pahujayogesh/Criminal-Detection-Using-Face-Recognition',
   },
   {
     name: 'React Book Library',
@@ -117,6 +135,14 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'Python',
+  'pandas',
+  'Matplotlib',
+  'sqlalchemy',
+  'psycopg2',
+  'MySQL',
+  'PostgreSQL',
+  'OOPS',
   'HTML',
   'CSS',
   'JavaScript',
@@ -125,14 +151,9 @@ const skills = [
   'Tailwind CSS',
   'Material UI',
   'Bootstrap',
+  'Java',
   'Git',
   'GitHub',
-  'MySQL',
-  'Python',
-  'pandas',
-  'Matplotlib',
-  'Java',
-  'OOPS'
 ]
 
 const certifactes =[
