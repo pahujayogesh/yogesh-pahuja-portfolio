@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Yogesh Pahuja',
-  role: 'Developer & Data Engineer',
+  role: ' Data Engineer & Developer',
   description:
     `Data Engineer with 5 months of experience in writing automated Python scripts Skilled in the areas of Python, Pandas, NumPy,
     Openpyxl, Excel and SQL. Other than that I'm passionate about working with React Js, Node Js, MongoDb and MySQL Tech Stack. I'm also exploring cloud technologies such as AWS and Jenkins.`,
