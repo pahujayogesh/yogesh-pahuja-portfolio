@@ -157,10 +157,10 @@ const skills = [
 ]
 
 const certifactes =[
-  {title:'React Js',link:'https://drive.google.com/uc?export=view&id=1n7za-l_2QshADLXw8_uVuu-eyC41W_SK',},
-  {title:'Python Programming',link:'https://drive.google.com/uc?export=view&id=1Aw7NbV-ky2DsR3fw5FkbKmum4Ooiy659',},
-  {title:'Java Programming',link:'https://drive.google.com/uc?export=view&id=18i8YnLmrEUb81Y9Rm4c1g7aU9fV-u8x8',},
-  {title:'Database',link:'https://drive.google.com/uc?export=view&id=1de5ziSnXRjS32yxbuwKvhS9LFAngrNww'}]
+  {title:'React Js',link:'https://drive.google.com/thumbnail?id=1n7za-l_2QshADLXw8_uVuu-eyC41W_SK',alt:'react Certificate'},
+  {title:'Python Programming',link:'https://drive.google.com/thumbnail?id=1Aw7NbV-ky2DsR3fw5FkbKmum4Ooiy659',alt:'Python Programming Certificate'},
+  {title:'Java Programming',link:'https://drive.google.com/thumbnail?id=18i8YnLmrEUb81Y9Rm4c1g7aU9fV-u8x8',alt:'Java Programming Certificate'},
+  {title:'Database',link:'https://drive.google.com/thumbnail?id=1de5ziSnXRjS32yxbuwKvhS9LFAngrNww',alt:'Database Certificate'}]
 
 const activities=[
   {title:'Attended Techfest at VESIT',description:` Vihaan'18 (VESIT,Chembur) Inter-Collegiate Techfest Participated in a Quiriosity Competition.`},

@@ -12,7 +12,7 @@ function Certification() {
 
             <a href={data.link} key={i}>
                 <h4>{data.title}</h4>
-                <img src={data.link} alt="Certificate"/>
+                <img src={data.link} alt={data.alt}/>
             </a>
             
 
