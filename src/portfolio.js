@@ -115,7 +115,7 @@ const projects = [
   {
     name: 'React Book Library',
     description:
-      `A Web App for books library that includes two sections sidebar and main container
+      `A Web App for books library that fetches data from open book Library API, includes two sections sidebar and main container
       Sidebar contains all the trending books and the main container contains tabulated
       formats of all books details Title, Author, Cover ID, First Publish Year.`,
     stack: ['HTML5', 'CSS3', 'Bootstrap', 'Material UI', 'JavaScript ES6', 'React Js', 'Axios','Open Books Library API','Vercel'],
