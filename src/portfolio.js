@@ -110,7 +110,7 @@ const projects = [
       `Football Card: A dynamic React project showcasing football player profiles, featuring player names, jersey numbers, and comprehensive details including team, position, salary, and performance points.`,
     stack: ['HTML5', 'CSS3', 'Bootstrap', 'Material UI', 'JavaScript ES6', 'React Js', 'Axios'],
     sourceCode: 'https://github.com/pahujayogesh/Football-Card',
-    livePreview:'https://pahujayogesh.github.io/Football-Card/'
+    livePreview:'https://pahujayogesh.github.io/Fantasy-Football/'
   },
   {
     name: 'React Book Library',
