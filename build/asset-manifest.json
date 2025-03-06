@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d1dcd6c.css",
+    "main.css": "/static/css/main.5bf1fb3f.css",
     "main.js": "/static/js/main.fff2574e.js",
     "static/media/udemyreact.jpg": "/static/media/udemyreact.4fd1950be091e2d61328.jpg",
     "static/media/python.jpg": "/static/media/python.3188fcbfec2f91e61f28.jpg",
@@ -11,11 +11,11 @@
     "static/media/Power BI.jpg": "/static/media/Power BI.5ffa49204d1217ea02e5.jpg",
     "static/media/AI&ML.png": "/static/media/AI&ML.f206d78b0f79b64d3b09.png",
     "index.html": "/index.html",
-    "main.0d1dcd6c.css.map": "/static/css/main.0d1dcd6c.css.map",
+    "main.5bf1fb3f.css.map": "/static/css/main.5bf1fb3f.css.map",
     "main.fff2574e.js.map": "/static/js/main.fff2574e.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d1dcd6c.css",
+    "static/css/main.5bf1fb3f.css",
     "static/js/main.fff2574e.js"
   ]
 }
