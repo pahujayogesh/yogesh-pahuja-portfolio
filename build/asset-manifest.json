@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5bf1fb3f.css",
-    "main.js": "/static/js/main.fff2574e.js",
+    "main.js": "/static/js/main.379f849f.js",
     "static/media/udemyreact.jpg": "/static/media/udemyreact.4fd1950be091e2d61328.jpg",
     "static/media/python.jpg": "/static/media/python.3188fcbfec2f91e61f28.jpg",
     "static/media/database.jpg": "/static/media/database.9987e88c108c34a8618b.jpg",
@@ -12,10 +12,10 @@
     "static/media/AI&ML.png": "/static/media/AI&ML.f206d78b0f79b64d3b09.png",
     "index.html": "/index.html",
     "main.5bf1fb3f.css.map": "/static/css/main.5bf1fb3f.css.map",
-    "main.fff2574e.js.map": "/static/js/main.fff2574e.js.map"
+    "main.379f849f.js.map": "/static/js/main.379f849f.js.map"
   },
   "entrypoints": [
     "static/css/main.5bf1fb3f.css",
-    "static/js/main.fff2574e.js"
+    "static/js/main.379f849f.js"
   ]
 }
