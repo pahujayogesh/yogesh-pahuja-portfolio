@@ -106,6 +106,7 @@ comprehensive insights through Exploratory data analysis, Survival pattern visua
 Predictive modeling using Logistic Regression.`,
     stack: ['Python', 'Pandas','Numpy', 'Matplotlib', 'scikit-learn', 'seaborn', 'streamlit'],
     sourceCode: 'https://github.com/pahujayogesh/Titanic_app',
+    livePreview:'https://yogesh-titanic-app.streamlit.app/'
   },
   {
     name: 'ETL project on food claims dataset',
