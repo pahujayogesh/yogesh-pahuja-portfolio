@@ -1,26 +1,37 @@
-import React from 'react'
-import {certifactes} from '../../portfolio';
+import React from 'react';
+import { useState } from "react";
 import './Certification.css';
+import {certifactes} from '../../portfolio';
 
-function Certification() {
-
+const Certification = () => {
+  const [selectedImage, setSelectedImage] = useState(null);
   return (
-    <section id='certification' className='section certification'>
-    <h2 className='section__title'>Certification</h2>
-    <div className='crt_detail'>
-        {certifactes.map((data,i)=>
+    <section id='certification' className="certificates">
+      <h2>Certificates</h2>
+      <div className="certificates__grid">
+        {certifactes.map((cert, index) => (
+          <div key={index} className="certificate__card">
+            <img
+              src={cert.image}
+              alt={cert.alt}
+              className="certificate__image"
+              onClick={() => setSelectedImage(cert.image)}
+            />
+            <h4>{cert.title}</h4>
+          </div>
+        ))}
+      </div>
 
-            <a href={data.link} key={i}>
-                <h4>{data.title}</h4>
-                <img src={data.link} alt={data.alt}/>
-            </a>
-            
-
-        
-        )}
-    </div>
+            {/* Modal for Full-Screen Image */}
+            {selectedImage && (
+        <div className="modal" onClick={() => setSelectedImage(null)}>
+          <span className="close-btn">&times;</span>
+          <img src={selectedImage} alt="Certificate" className="modal-image" />
+        </div>
+      )}
     </section>
-  )
-}
+  );
+};
 
-export default Certification
+
+export default Certification;

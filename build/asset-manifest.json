@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.00b039b2.chunk.css",
-    "main.js": "/static/js/main.4be0daca.chunk.js",
-    "main.js.map": "/static/js/main.4be0daca.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1b56b811.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1b56b811.js.map",
-    "static/js/2.edaff18d.chunk.js": "/static/js/2.edaff18d.chunk.js",
-    "static/js/2.edaff18d.chunk.js.map": "/static/js/2.edaff18d.chunk.js.map",
+    "main.css": "/static/css/main.0d1dcd6c.css",
+    "main.js": "/static/js/main.fff2574e.js",
+    "static/media/udemyreact.jpg": "/static/media/udemyreact.4fd1950be091e2d61328.jpg",
+    "static/media/python.jpg": "/static/media/python.3188fcbfec2f91e61f28.jpg",
+    "static/media/database.jpg": "/static/media/database.9987e88c108c34a8618b.jpg",
+    "static/media/java.jpg": "/static/media/java.452a2b088486148881c7.jpg",
+    "static/media/DS&ML.jpg": "/static/media/DS&ML.7bc7b88841eab3aa5946.jpg",
+    "static/media/EXCEL.jpg": "/static/media/EXCEL.bdb3d3867c635fa8ff0c.jpg",
+    "static/media/Power BI.jpg": "/static/media/Power BI.5ffa49204d1217ea02e5.jpg",
+    "static/media/AI&ML.png": "/static/media/AI&ML.f206d78b0f79b64d3b09.png",
     "index.html": "/index.html",
-    "static/css/main.00b039b2.chunk.css.map": "/static/css/main.00b039b2.chunk.css.map",
-    "static/js/2.edaff18d.chunk.js.LICENSE.txt": "/static/js/2.edaff18d.chunk.js.LICENSE.txt"
+    "main.0d1dcd6c.css.map": "/static/css/main.0d1dcd6c.css.map",
+    "main.fff2574e.js.map": "/static/js/main.fff2574e.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b56b811.js",
-    "static/js/2.edaff18d.chunk.js",
-    "static/css/main.00b039b2.chunk.css",
-    "static/js/main.4be0daca.chunk.js"
+    "static/css/main.0d1dcd6c.css",
+    "static/js/main.fff2574e.js"
   ]
 }
