@@ -21,7 +21,7 @@ const about = {
   name: 'Yogesh Pahuja',
   role: ' Data Engineer & Analyst',
   description:
-    `A Data Engineer with over 1 year of experience in data automation, analysis, and optimization. 
+    `A Microsoft Certified: Fabric Analytics Data Engineer with over 3 year of experience in data automation, analysis, and optimization. 
     Skilled in Python, Pandas, SQL, scikit-learn
     and Power BI, with a proven track record of developing automated workflows, 
     improving data processing effciency, and creating actionable insights.`,
