@@ -28,6 +28,10 @@
   cursor: pointer;
 }
 
+.certificate__card h4 {
+  white-space: pre-line;
+}
+
 .certificates {
   text-align: center;
 }

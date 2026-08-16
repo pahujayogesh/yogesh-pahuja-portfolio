@@ -306,7 +306,7 @@ const skills = [
 
 const certifactes = [
   { 
-    title: 'Microsoft Certified: Fabric Analytics Engineer Associate (Exam DP-600)', 
+    title: 'Microsoft Certified:\nFabric Analytics Engineer Associate', 
     link: 'https://drive.google.com/file/d/1Qs_YFTU6Xu_OoeTvnYsheVooUmebYM43/view?usp=sharing', 
     alt: 'Microsoft Certified Fabric Analytics Engineer Associate Certificate', 
     image: fabricDP600 
