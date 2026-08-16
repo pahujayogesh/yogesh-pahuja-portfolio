@@ -9,6 +9,7 @@ import AIML from './components/Certification/certificate_images/AI&ML.png';
 import powerbi from './components/Certification/certificate_images/Power BI.jpg';
 import DSML from './components/Certification/certificate_images/DS&ML.jpg';
 import excel from './components/Certification/certificate_images/EXCEL.jpg';
+import fabricDP600 from './components/Certification/certificate_images/fabric-dp600.jpg';
 
 const header = {
   // all the properties are optional - can be left empty or deleted
@@ -304,6 +305,12 @@ const skills = [
 ];
 
 const certifactes = [
+  { 
+    title: 'Microsoft Certified: Fabric Analytics Engineer Associate (Exam DP-600)', 
+    link: 'https://drive.google.com/file/d/1Qs_YFTU6Xu_OoeTvnYsheVooUmebYM43/view?usp=sharing', 
+    alt: 'Microsoft Certified Fabric Analytics Engineer Associate Certificate', 
+    image: fabricDP600 
+  },
   { 
     title: 'Python Programming', 
     link: '', 
