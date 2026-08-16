@@ -32,6 +32,45 @@ const about = {
 }
 const experience =[
   {
+    companyname: 'Quess Corp Limited (Deputed to Vodafone Idea Limited)',
+    role: 'Data Analyst',
+    date: 'Jun 2025 – Present',
+    description: [
+      `➔ Prepaid MNP Customer Retention`,
+      `➔ Perform daily monitoring, data validation, and quality checks across multiple business data processes to ensure accurate and timely 
+data availability.`,
+      `➔ Design and maintain ETL workflows extracting 15M+ records/day from source systems, processing in the data lake, and loading into 
+process-specific SQL tables.`,
+      `➔ Develop complex SQL queries and business logic for process automation, including bot allocation for Target/Control groups, offer 
+taker identification from UPC data, and campaign eligibility logic.`,
+      `➔ Conduct analytical studies on retained customer base to support bulk SMS offer strategies, translating business objectives into data 
+driven solutions.`,
+      `➔ Prepaid Term and MNP Activation`,
+      `➔ Analyzed nationwide next 3-month Recharge Cycles (RCs) and calculated ARPU using OBCC logic to support revenue forecasting and 
+retention strategies.`,
+      `➔ Automated Annexure 1/2/3 reporting workflow for ASTRA, Industry Bulk, and LEA datasets received from UIDAI/Nodal Officers.`,
+      `➔ Built Python ETL pipelines for data cleaning, validation, formatting, and CSV generation, replacing manual MS Access processing and 
+reducing report generation time by 90% (4–5 hours to under 30 minutes).`,
+      `➔ Built Hadoop Impala workflows for staging, deduplication, verification tracking, and data enrichment using telecom business rules.`,
+      `➔ Tracked open/closed verification cases across SLAs, helping reduce pending cases from 78L to 50K across 1Cr+ records.`,
+    ],
+  },
+  {
+    companyname: 'ManziNetworks Media LLP',
+    role: 'Data Engineer',
+    date: 'Oct 2024 – Jun 2025',
+    description: [
+      `➔ Designed and implemented scalable Azure Data Factory (ADF) pipelines to automate CSV ingestion (8–10 GB data), triggered by 
+email notifications and processed via shared/dedicated ADL into SSMS.`,
+      `➔ Built ETL workflows to process 1M+ records from ADL to SQL Server (SSMS), ensuring timely and accurate data availability for 
+downstream analysis.`,
+      `➔ Automated end-to-end reporting workflows using Python, Pandas, and OpenPyXL for ad campaign performance metrics such as 
+Viewability, Invalid Traffic, and Brand Safety.`,
+      `➔ Collaborated with cross-functional teams to monitor, troubleshoot, and optimize data pipelines for quality, security, and 
+performance at scale.`,
+    ],
+  },
+  {
     companyname: ' Rose Designer Chairs',
     role: 'Data Analyst',
     date: 'March 2024 – September 2024',
