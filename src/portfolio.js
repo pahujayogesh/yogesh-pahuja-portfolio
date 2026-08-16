@@ -36,7 +36,7 @@ const experience =[
     role: 'Data Analyst',
     date: 'Jun 2025 – Present',
     description: [
-      `➔ Prepaid MNP Customer Retention`,
+      `## Prepaid MNP Customer Retention`,
       `➔ Perform daily monitoring, data validation, and quality checks across multiple business data processes to ensure accurate and timely 
 data availability.`,
       `➔ Design and maintain ETL workflows extracting 15M+ records/day from source systems, processing in the data lake, and loading into 
@@ -45,7 +45,7 @@ process-specific SQL tables.`,
 taker identification from UPC data, and campaign eligibility logic.`,
       `➔ Conduct analytical studies on retained customer base to support bulk SMS offer strategies, translating business objectives into data 
 driven solutions.`,
-      `➔ Prepaid Term and MNP Activation`,
+      `## Prepaid Term and MNP Activation`,
       `➔ Analyzed nationwide next 3-month Recharge Cycles (RCs) and calculated ARPU using OBCC logic to support revenue forecasting and 
 retention strategies.`,
       `➔ Automated Annexure 1/2/3 reporting workflow for ASTRA, Industry Bulk, and LEA datasets received from UIDAI/Nodal Officers.`,

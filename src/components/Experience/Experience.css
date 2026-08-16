@@ -47,6 +47,11 @@
     position: relative;
     padding-left: 20px;
   }
+
+  .experience__subheading {
+    font-weight: bold;
+    text-decoration: underline;
+  }
   
   .description li::before {
     content: "➔";

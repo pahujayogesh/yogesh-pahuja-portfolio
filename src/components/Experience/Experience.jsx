@@ -15,9 +15,16 @@ function Experience() {
             {exp.role && <h3 className="about__role">{exp.role}</h3>}
             {exp.description && (
               <ul>
-                {exp.description.map((task, taskIndex) => (
-                  <li key={taskIndex}>{task}</li>
-                ))}
+                {exp.description.map((task, taskIndex) => {
+                  if (task.startsWith('## ')) {
+                    return (
+                      <li key={taskIndex} className="experience__subheading">
+                        {task.slice(3)}
+                      </li>
+                    );
+                  }
+                  return <li key={taskIndex}>{task}</li>;
+                })}
               </ul>
             )}
           </div>
